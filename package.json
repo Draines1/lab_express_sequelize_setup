@@ -1,0 +1,20 @@
+{
+  "name": "lab-express-sequelize-setup",
+  "version": "1.0.0",
+  "description": "This project has all of the code files, but is missing its `package.json` and cannot connect to a database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Draines1/lab_express_sequelize_setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Draines1/lab_express_sequelize_setup/issues"
+  },
+  "homepage": "https://github.com/Draines1/lab_express_sequelize_setup#readme"
+}
